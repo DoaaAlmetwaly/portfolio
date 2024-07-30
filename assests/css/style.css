@@ -59,7 +59,7 @@ img{
         background-size: cover;
     }
     #content{
-        padding: var(--sidbar-width);
+        padding-left: 240px;
     }
    
 }
